@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pydantic
+langchain-groq
+duckduckgo-search
+wikipedia
+pandas
+plotly
+sqlalchemy
+psycopg2-binary
+httpx
